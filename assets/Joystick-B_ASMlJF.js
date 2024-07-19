@@ -1,0 +1,1 @@
+import{r as s,j as i}from"./index-CdofS7KC.js";const c=s.forwardRef(({nodes:t,materials:e,onPointerOver:o,onPointerOut:a},r)=>i.jsx("mesh",{ref:r,castShadow:!0,receiveShadow:!0,geometry:t.Joystick.geometry,material:e.ObjectMaterial,position:[1,2.066,-.006],rotation:[.257,.045,.171],scale:.038,onPointerOver:o,onPointerOut:a}));c.displayName="Joystick";export{c as default};
